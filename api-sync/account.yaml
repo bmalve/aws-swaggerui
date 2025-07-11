@@ -1,0 +1,14 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "title" : "Test Github Integration",
+    "description" : "Test Github Integration - Description",
+    "version" : "0"
+  },
+  "servers" : [ {
+    "url" : "https://virtserver.swaggerhub.com/subaruofamericaconne/cv-api-test/0",
+    "description" : "SwaggerHub API Auto Mocking"
+  } ],
+  "paths" : { },
+  "components" : { }
+}
